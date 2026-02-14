@@ -48,10 +48,10 @@ export default defineNuxtConfig({
         emoji: '🇪🇸'
       },
       {
-        code: 'zh',
-        file: 'zh.json',
-        name: '中文',
-        emoji: '🇨🇳'
+        code: 'hu',
+        file: 'hu_beta.json',
+        name: 'Magyar',
+        emoji: '🇭🇺'
       },
       {
         code: 'ru',
